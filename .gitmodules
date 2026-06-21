@@ -1,0 +1,3 @@
+[submodule "ModularCANLib"]
+	path = ModularCANLib
+	url = git@gitlab.com:kikaiken/ModularCANLib.git
